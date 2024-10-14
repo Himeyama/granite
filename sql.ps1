@@ -1,0 +1,1 @@
+wsl -- /usr/bin/sqlite3 granite.db `< granite.sql
